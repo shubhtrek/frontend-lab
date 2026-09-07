@@ -69,6 +69,7 @@ I'm building projects to become better at:
 | Project           | Tech            | Status      |
 | ----------------- | --------------- | ----------- |
 | 🎮 Game Web       | HTML • CSS • JS | ✅ Done      |
+| 🪵Furniture Web       | HTML • CSS • JS | ✅ Done      |
 | 🚧 More coming... | —               | 🔨 Building |
 
 > More projects will appear here as I build them.
@@ -133,7 +134,7 @@ That's what this repo is for.
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Shubh** 👋
+Hey! I'm **Shvbh** 👋
 
 A Computer Engineering student exploring the world of software development.
 
